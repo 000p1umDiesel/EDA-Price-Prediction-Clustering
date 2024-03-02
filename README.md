@@ -14,4 +14,4 @@
 5. Создании кластеризации
 6. Итог
 
-# **ВНИМАНИЕ! ДЛЯ ПРОСМОТРА ГРАФИКОВ НЕОБХОДИМО САМОСТОЯТЕЛЬНО ЗАПУСТИТЬ Jupyter Notebook ИЛИ ЗАЙТИ НА НОУТБУК Kaggle <a href="https://www.kaggle.com/spalatov/eda-price-prediction-clustering">ноутбук</a>**
+# ** Ноутбук Kaggle <a href="https://www.kaggle.com/spalatov/eda-price-prediction-clustering">ноутбук</a>**
