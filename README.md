@@ -5,6 +5,7 @@
 # Проект был сделан для тренировки EDA и машинного обучения 
 
 # Данные были предоставлен с Kaggle: <a href="https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market">link</a>
+# **Ноутбук Kaggle <a href="https://www.kaggle.com/spalatov/eda-price-prediction-clustering">ноутбук</a>**
 
 # Проект разбит на 6 частей:
 1. Загрузка данных и проверка пропущенных значений
@@ -13,5 +14,3 @@
 4. Построение модели для предсказания цены на недвижимость
 5. Создании кластеризации
 6. Итог
-
-# ** Ноутбук Kaggle <a href="https://www.kaggle.com/spalatov/eda-price-prediction-clustering">ноутбук</a>**
